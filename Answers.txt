@@ -1,0 +1,14 @@
+Exercise 6
+
+a) Age can be accessed for future modification whereas the private member of base class are hidden from derived class.
+
+
+b)
+	1	IntelliSense: identifier "first_name" is undefined	c:\Users\TEMP\Desktop\l181172\l181172\Student.cpp	26	9	l181172
+	2	IntelliSense: identifier "”" is undefined	c:\Users\TEMP\Desktop\l181172\l181172\Student.cpp	26	23	l181172
+
+c)
+    WE are getting this error as the names are private member of base class which means they become hidden for base class.
+
+Exercise 8 & 9 
+ There was no difference when we used private or protected inheritance.As we are not rying to access any private base class members.
